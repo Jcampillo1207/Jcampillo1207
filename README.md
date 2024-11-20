@@ -77,5 +77,5 @@ Soy un desarrollador frontend autodidacta especializado en la creación de inter
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=dark" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jcampillo1207&layout=compact&theme=dark" alt="Top Languages" />
 </div>
